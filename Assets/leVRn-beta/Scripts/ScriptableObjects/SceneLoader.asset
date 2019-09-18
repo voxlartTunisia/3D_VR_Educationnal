@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d94b7ab5db51bc44aab9e7c8a9f123e, type: 3}
+  m_Name: SceneLoader
+  m_EditorClassIdentifier: 
+  mainScene: 0
+  streetScene: 1
+  kineticStreet: 2
+  streetTest: 3
+  field: 4
+  loadingSphere: {fileID: 5541169292367334228, guid: 4190e056dfd7f014cb2dc3a212611411,
+    type: 3}
